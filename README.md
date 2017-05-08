@@ -7,7 +7,7 @@ Contains instructions.
 Posters:  
 Contains ads and photos.  
   
-Status: TB  
+Status: WIP
 Project Statuses:  
 
 0(GOOD END) Complete  
